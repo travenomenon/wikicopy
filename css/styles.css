@@ -9,3 +9,10 @@
   overflow-x: hidden;
   padding-top: 20px;
 }
+
+#note {
+  height: 150px;
+  width: 120px;
+  float: left;
+  margin: 10px;
+}
